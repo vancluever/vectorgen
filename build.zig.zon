@@ -1,0 +1,17 @@
+.{
+    .name = .vectorgen,
+    .version = "0.0.1",
+    .dependencies = .{
+        .z2d = .{
+            .url = "https://github.com/vancluever/z2d/archive/f7a74c779f88d0fcc47ebc737365ad8c60dcb0b6.tar.gz",
+            .hash = "z2d-0.13.3-pre-j5P_HgwoFAAFbuUgppzRiaiNX5K37dZNd8cWMpVdT9i-",
+        },
+    },
+    .minimum_zig_version = "0.17.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+    .fingerprint = 0xf21a9f12f43caadb,
+}
