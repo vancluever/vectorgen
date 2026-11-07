@@ -70,4 +70,5 @@ The entirety of the library is in [`src/vectorgen.zig`](src/vectorgen.zig).
 
 ## License
 
-This project is licensed MPL 2.0. See LICENSE for a copy of the MPL.
+This project is licensed MPL 2.0. See LICENSE for further details on this and
+other licenses that apply to the software (including font licenses).
