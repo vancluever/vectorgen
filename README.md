@@ -62,7 +62,7 @@ your_module.addImport("z2d", z2d_mod);
 ```
 
 This will also allow you to control other z2d options (e.g., setting
-`.float_precision` to `.double` if you need better floating-point precision.
+`.float_precision` to `.double` if you need better floating-point precision).
 
 ### API reference
 
