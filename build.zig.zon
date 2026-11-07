@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MPL-2.0
+//   Copyright © 2026 Chris Marchesi
 .{
     .name = .vectorgen,
     .version = "0.0.1",

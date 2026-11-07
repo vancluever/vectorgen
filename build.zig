@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MPL-2.0
+//   Copyright © 2026 Chris Marchesi
 const std = @import("std");
 
 pub fn build(b: *std.Build) void {

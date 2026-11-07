@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MPL-2.0
+//   Copyright © 2026 Chris Marchesi
 const std = @import("std");
 const z2d = @import("z2d");
 
